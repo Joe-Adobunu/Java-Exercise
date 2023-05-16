@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df910d9b-9b5b-4905-a976-afd40f12a0b4" name="Changes" comment="ModifiedPhoneMenu">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeworld/ChangeVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeworld/EnhanceForStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeworld/RaisedToPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeworld/TwoDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeworld/VariableLengthArgumentList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeworld/ModifiedPhoneMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeworld/ModifiedPhoneMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeworld/PhoneMenu1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeworld/PhoneMenu1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2NgHz4Dr88BRI4aO1CBo1ERTOqg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="codeworld" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClassWork2">
+    <configuration name="ClassWork2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeworld.ClassWork2" />
+      <module name="Classwork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Classwwrk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeworld.Classwwrk" />
+      <module name="Classwork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeworld.TwoDArray" />
+      <module name="Classwork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariableLengthArgumentList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeworld.VariableLengthArgumentList" />
+      <module name="Classwork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumNumberInArrayTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Classwork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codeworld" />
+      <option name="MAIN_CLASS_NAME" value="codeworld.MinimumNumberInArrayTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClassWork2" />
+        <item itemvalue="Application.TwoDArray" />
+        <item itemvalue="Application.Classwwrk" />
+        <item itemvalue="JUnit.MinimumNumberInArrayTest.test" />
+        <item itemvalue="Application.VariableLengthArgumentList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df910d9b-9b5b-4905-a976-afd40f12a0b4" name="Changes" comment="" />
+      <created>1680079068416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680079068416</updated>
+      <workItem from="1680079069566" duration="17547000" />
+      <workItem from="1680242179570" duration="4405000" />
+      <workItem from="1680252110630" duration="56978000" />
+      <workItem from="1680791993386" duration="87821000" />
+      <workItem from="1681393715972" duration="24164000" />
+      <workItem from="1681769839437" duration="1902000" />
+      <workItem from="1682937901725" duration="7633000" />
+      <workItem from="1683021645898" duration="43000" />
+      <workItem from="1683021760957" duration="156000" />
+      <workItem from="1683021933982" duration="39000" />
+      <workItem from="1683022663062" duration="249000" />
+      <workItem from="1683023043467" duration="178000" />
+      <workItem from="1683025385167" duration="2221000" />
+      <workItem from="1683094089781" duration="2468000" />
+      <workItem from="1683276435232" duration="7905000" />
+      <workItem from="1683285576573" duration="4382000" />
+      <workItem from="1683292190417" duration="8590000" />
+      <workItem from="1683624984157" duration="10260000" />
+      <workItem from="1683646005103" duration="21029000" />
+      <workItem from="1683722823136" duration="10191000" />
+      <workItem from="1683834949442" duration="19445000" />
+      <workItem from="1683981962533" duration="1418000" />
+      <workItem from="1684011431007" duration="231000" />
+      <workItem from="1684018953686" duration="623000" />
+      <workItem from="1684072567354" duration="1926000" />
+    </task>
+    <task id="LOCAL-00001" summary="PhoneMenu">
+      <created>1680877227557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680877227557</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ModifiedPhoneMenu">
+      <created>1680949908886</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680949908886</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="text">
+                    <value>
+                      <list>
+                        <option value="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" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PhoneMenu" />
+    <MESSAGE value="ModifiedPhoneMenu" />
+    <option name="LAST_COMMIT_MESSAGE" value="ModifiedPhoneMenu" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

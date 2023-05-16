@@ -66,6 +66,7 @@ public class ModifiedPhoneMenu {
                                     ===============
                                     1. Type of View
                                     2. Memory Status
+                                    3. press -1
                                     """);
                             int options = input.nextInt();
                             switch (options) {
@@ -73,8 +74,9 @@ public class ModifiedPhoneMenu {
                                     System.out.println("Type of View");
                                 case 2:
                                     System.out.println("Memory Status");
-                                    break;
-                                default:
+                                case -1:
+                                    System.out.println("Going back to main menu");
+                                    continue;
                             }
                         case 9:
                             System.out.println("Speed Dials");

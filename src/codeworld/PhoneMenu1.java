@@ -40,7 +40,7 @@ public class PhoneMenu1 {
                         press 8 options"
                         press 9 Speed Dials
                         press 10 Voice Tags
-                        Press -1 Back  """);
+                        """);
                 int phoneBook = inPut.nextInt();
                 switch (phoneBook) {
                     case 1:
@@ -168,11 +168,12 @@ public class PhoneMenu1 {
                         press 1 chat
                         """);
                 int chat = inPut.nextInt();
-                switch (chat){
+                switch (chat) {
                     case 1:
                         System.out.println("chat");
                         break;
-                    default: System.out.println("return");
+                    default:
+                        System.out.println("return");
                 }
             case 4:
                 System.out.println("""
@@ -189,7 +190,7 @@ public class PhoneMenu1 {
                         press 8 prepaid credit
                         """);
                 int callRegister = inPut.nextInt();
-                switch (callRegister){
+                switch (callRegister) {
                     case 1:
                         System.out.println("missed call");
                     case 2:
@@ -208,7 +209,7 @@ public class PhoneMenu1 {
                                 press 5 clear timers
                                 """);
                         int showCallDuration = inPut.nextInt();
-                        switch (showCallDuration){
+                        switch (showCallDuration) {
                             case 1:
                                 System.out.println("last call duration");
                             case 2:
@@ -230,7 +231,7 @@ public class PhoneMenu1 {
                                 press 3 clear counter
                                 """);
                         int showCallCost = inPut.nextInt();
-                        switch (showCallCost){
+                        switch (showCallCost) {
                             case 1:
                                 System.out.println("last call cost");
                             case 2:
@@ -246,7 +247,7 @@ public class PhoneMenu1 {
                                 press 2 show cost in
                                 """);
                         int callsCostSettings = inPut.nextInt();
-                        switch (callsCostSettings){
+                        switch (callsCostSettings) {
                             case 1:
                                 System.out.println("call cost limit");
                             case 2:
@@ -255,12 +256,202 @@ public class PhoneMenu1 {
                     case 8:
                         System.out.println("prepaid credit");
                         break;
-                    default: System.out.println("Return");
+                    default:
+                        System.out.println("Return");
                 }
+            case 5:
+                System.out.println("""
+                        --------------
+                        Tones
+                        ==============
+                        press 1. Ringing tone
+                        press 2. Ringing volume
+                        press 3. Incoming call alert
+                        press 4. Composer
+                        press 5. Message alert tone
+                        press 6. Keypad tones
+                        press 7. Warning and game tones
+                        press 8. Vibrating alert
+                        press 9. Screen save
+                        
+                        """);
+                int tones = inPut.nextInt();
+                switch (tones){
+                    case 1:
+                        System.out.println("Ringing tone");
+                    case 2:
+                        System.out.println("Ringing volume");
+                    case 3:
+                        System.out.println("incoming call alert");
+                    case 4:
+                        System.out.println("Composer");
+                    case 5:
+                        System.out.println("Message alert tone");
+                    case 6:
+                        System.out.println("Keypad tones");
+                    case 7:
+                        System.out.println("Warning and game tones");
+                    case 8:
+                        System.out.println("Vibrating alert");
+                    case 9:
+                        System.out.println("Screen save");
+                        break;
 
+                }
+            case 6:
+                System.out.println("""
+                        -------------
+                        Settings
+                        =============
+                        press 1. Call settings
+                        press 2. Phone settings
+                        press 3. Security settings
+                        press 4. Restore factory settings
+                        """);
+                int settings = inPut.nextInt();
+                switch (settings){
+                    case 1:
+                        System.out.println("Call settings");
+                        System.out.println("""
+                                press 1. Automatic redial
+                                press 2. Speed dialling
+                                press 3. Call waiting options
+                                press 4. Own number sending
+                                press 5. Phone line in use
+                                press 6. Automatic answer 
+                               
+                                """);
+                        int callSettings = inPut.nextInt();
+                        switch (callSettings){
+                            case 1:
+                                System.out.println("Automatic redial");
+                            case 2:
+                                System.out.println("Speed dialling");
+                            case 3:
+                                System.out.println("Call waiting options");
+                            case 4:
+                                System.out.println("Own number sending");
+                            case 5:
+                                System.out.println("Phone line in use");
+                            case 6:
+                                System.out.println("Automatic answer");
+
+
+                        }
+                    case 2:
+                        System.out.println("phone settings");
+                        System.out.println("""
+                                ---------------
+                                Phone settings
+                                ===============
+                                press 1. Language
+                                press 2. Cell info display
+                                press 3. Welcome note
+                                press 4. Network selection
+                                press 5. Lights2
+                                press 6. Confirm SIM service actions
+                                """);
+                        int phoneSettings = inPut.nextInt();
+                        switch (phoneSettings){
+                            case 1:
+                                System.out.println("Language");
+                            case 2:
+                                System.out.println("Cell info display");
+                            case 3:
+                                System.out.println("Welcome note");
+                            case 4:
+                                System.out.println("Network selection");
+                            case 5:
+                                System.out.println("Lights2");
+                            case 6:
+                                System.out.println("Confirm SIM service actions");
+                        }
+                    case 3:
+                        System.out.println("Security settings");
+                        System.out.println("""
+                                press 1. PIN code request
+                                press 2. Call barring service
+                                press 3. Fixed dialling
+                                press 4. Closed user group
+                                press 5. Phone security
+                                press 6. Change access codes
+                                """);
+                        int securitySettings = inPut.nextInt();
+                        switch (securitySettings){
+                            case 1:
+                                System.out.println("PIN code request");
+                            case 2:
+                                System.out.println("Call barring service");
+                            case 3:
+                                System.out.println("Fixed dialling");
+                            case 4:
+                                System.out.println("Closed user group");
+                            case 5:
+                                System.out.println("Phone security");
+                            case 6:
+                                System.out.println("Change access codes");
+                        }
+                    case 4:
+                        System.out.println("Restore factory settings");
+                        break;
+                }
+            case 7 :
+                System.out.println("press 1. Call divert");
+                int callDivert = inPut.nextInt();
+                switch (callDivert){
+                    case 1:
+                        System.out.println("Call Divert");
+                        break;
+                }
+            case 8:
+                System.out.println("games");
+                break;
+
+
+            case 9:
+                System.out.println("Calculator");
+                break;
+
+            case 10:
+                System.out.println("Reminders");
+                break;
+
+            case 11:
+                System.out.println("Clock");
+                System.out.println("""
+                        press 1. Alarm clock
+                        press 2. Alarm clock
+                        press 3. Date setting
+                        press 4. Stopwatch
+                        press 5. Countdown timer
+                        press 6. Auto update of date and time
+                        """);
+                int clock = inPut.nextInt();
+                switch (clock){
+                    case 1:
+                        System.out.println("Alarm clock");
+                    case 2:
+                        System.out.println("Alarm clock");
+                    case 3:
+                        System.out.println("Date setting");
+                    case 4:
+                        System.out.println("Stopwatch");
+                    case 5:
+                        System.out.println("Countdown timer");
+                    case 6:
+                        System.out.println("Auto update of date and time");
+                        break;
+                }
+            case 12:
+                System.out.println("Profile");
+                break;
+
+            case 13:
+                System.out.println("SIM services");
+                break;
         }
 
 
-        }
+    }
 
 }
